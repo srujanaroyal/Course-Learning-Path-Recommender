@@ -1,0 +1,32 @@
+{
+ "Python": [
+  {"q":"What does len([1,2,3]) return?","options":["2","3","4","Error"],"answer":1},
+  {"q":"Which keyword defines a function in Python?","options":["func","function","def","lambda only"],"answer":2},
+  {"q":"What is the type of {\"a\": 1}?","options":["list","set","tuple","dict"],"answer":3}
+ ],
+ "SQL": [
+  {"q":"Which clause filters rows before grouping?","options":["HAVING","WHERE","ORDER BY","LIMIT"],"answer":1},
+  {"q":"Which JOIN returns only matching rows from both tables?","options":["LEFT JOIN","FULL JOIN","INNER JOIN","CROSS JOIN"],"answer":2},
+  {"q":"Which function counts rows?","options":["COUNT()","SUM()","TOTAL()","ROWS()"],"answer":0}
+ ],
+ "Excel": [
+  {"q":"Which function looks up a value in the first column of a table?","options":["SUMIF","VLOOKUP","CONCAT","ROUND"],"answer":1},
+  {"q":"What does a pivot table do?","options":["Draws shapes","Summarises data by groups","Encrypts a sheet","Sorts fonts"],"answer":1},
+  {"q":"Which symbol locks a cell reference?","options":["#","@","$","&"],"answer":2}
+ ],
+ "Statistics": [
+  {"q":"The middle value of a sorted dataset is the:","options":["Mean","Median","Mode","Range"],"answer":1},
+  {"q":"Standard deviation measures:","options":["Central value","Spread of data","Sample size","Correlation"],"answer":1},
+  {"q":"A p-value below 0.05 usually means:","options":["Result is certainly true","Result is unlikely under the null hypothesis","Data is biased","Sample is too small"],"answer":1}
+ ],
+ "JavaScript": [
+  {"q":"Which keyword declares a block-scoped variable?","options":["var","let","define","dim"],"answer":1},
+  {"q":"What does === check?","options":["Value only","Type only","Value and type","Reference only"],"answer":2},
+  {"q":"Which method adds an item to the end of an array?","options":["push()","pop()","shift()","concat() only"],"answer":0}
+ ],
+ "HTML": [
+  {"q":"Which tag creates a hyperlink?","options":["<link>","<a>","<href>","<url>"],"answer":1},
+  {"q":"Which tag holds the main page heading?","options":["<h1>","<head>","<title> only","<header> only"],"answer":0},
+  {"q":"Which attribute gives an image alternative text?","options":["title","src","alt","name"],"answer":2}
+ ]
+}

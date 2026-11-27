@@ -1,0 +1,29 @@
+skill,category
+Python,Programming
+Programming Logic,Programming
+Pandas,Data
+NumPy,Data
+Matplotlib,Data
+Excel,Analytics
+Data Cleaning,Analytics
+Data Analysis,Analytics
+Statistics,Analytics
+Probability,Analytics
+Mathematics,Analytics
+SQL,Database
+Databases,Database
+Power BI,Visualization
+Data Visualization,Visualization
+Machine Learning,Machine Learning
+Feature Engineering,Machine Learning
+Model Deployment,Machine Learning
+Deep Learning,Deep Learning
+Neural Networks,Deep Learning
+HTML,Web
+CSS,Web
+Responsive Design,Web
+JavaScript,Web
+React,Web
+FastAPI,Backend
+REST APIs,Backend
+Git,Tools

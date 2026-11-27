@@ -1,0 +1,25 @@
+course_id,title,career_goal,category,level,duration_hours,skills,interests,prerequisites,description
+1,Python Fundamentals,Data Analyst;Data Scientist,Programming,Beginner,10,Python;Programming Logic,Coding;Data,,Learn Python syntax and data types and loops and functions from scratch
+2,Excel Essentials,Data Analyst,Analytics,Beginner,8,Excel;Data Cleaning,Analytics;Business,,Clean and sort and summarise data with formulas and pivot tables
+3,SQL for Beginners,Data Analyst;Data Scientist,Database,Beginner,12,SQL;Databases,Data;Technology,,Query relational databases with SELECT and JOIN and GROUP BY
+4,Statistics Fundamentals,Data Analyst;Data Scientist,Analytics,Beginner,10,Statistics;Mathematics,Analytics;Research,,Descriptive statistics and distributions and hypothesis thinking
+5,Advanced Excel,Data Analyst,Analytics,Intermediate,8,Excel;Data Analysis,Analytics;Business,2,Lookup functions and dynamic arrays and analysis workflows
+6,Python for Data Analysis,Data Analyst;Data Scientist,Programming,Intermediate,15,Python;Pandas;NumPy,Data;Coding,1,Analyse and transform datasets with Pandas and NumPy
+7,Power BI Essentials,Data Analyst,Visualization,Intermediate,10,Power BI;Data Visualization,Analytics;Business,2,Build interactive dashboards and reports in Power BI
+8,Data Visualization with Python,Data Analyst;Data Scientist,Visualization,Intermediate,10,Data Visualization;Matplotlib,Data;Design,6,Create charts and visual stories with Matplotlib
+9,Advanced SQL and Analytics,Data Analyst;Data Scientist,Database,Intermediate,12,SQL;Data Analysis,Data;Analytics,3,Window functions and CTEs and analytical queries
+10,Probability and Inferential Statistics,Data Analyst;Data Scientist,Analytics,Intermediate,12,Statistics;Probability,Research;Analytics,4,Probability and sampling and confidence intervals
+11,Data Analytics Capstone,Data Analyst,Projects,Advanced,20,Data Analysis;Power BI;SQL,Analytics;Business,7;9;10,End-to-end analytics project from raw data to dashboard
+12,Machine Learning Basics,Data Scientist,Machine Learning,Intermediate,20,Python;Machine Learning;Statistics,AI;Technology,6;4,Regression and classification and model evaluation with Scikit-learn
+13,Feature Engineering,Data Scientist,Machine Learning,Intermediate,12,Pandas;Feature Engineering,AI;Data,6,Prepare and transform features to improve models
+14,Deep Learning,Data Scientist,Deep Learning,Advanced,25,Deep Learning;Neural Networks;Python,AI;Research,12,Neural networks with modern deep learning frameworks
+15,Model Deployment Basics,Data Scientist,Machine Learning,Advanced,10,Model Deployment;FastAPI;Machine Learning,AI;Technology,12,Serve trained models behind a REST API
+16,Data Science Capstone,Data Scientist,Projects,Advanced,20,Machine Learning;Statistics;Python,AI;Research,12;13,Complete a practical machine learning project
+17,HTML and CSS Basics,Web Developer,Web Development,Beginner,10,HTML;CSS,Design;Coding,,Structure and style web pages
+18,JavaScript Fundamentals,Web Developer,Programming,Beginner,12,JavaScript;Programming Logic,Coding;Technology,17,Variables and functions and the DOM and events
+19,Git and GitHub,Web Developer;Data Scientist,Tools,Beginner,5,Git,Technology;Coding,,Track changes and collaborate with version control
+20,Responsive Web Design,Web Developer,Web Development,Intermediate,10,CSS;Responsive Design,Design;Coding,17,Flexbox and grid and mobile-first layouts
+21,React.js Development,Web Developer,Web Development,Intermediate,18,React;JavaScript,Design;Coding,18,Components and state and routing in React
+22,Backend with FastAPI,Web Developer,Backend,Intermediate,15,Python;FastAPI;REST APIs,Coding;Technology,,Build REST APIs with Python and FastAPI
+23,Databases for Web Apps,Web Developer,Database,Beginner,10,SQL;Databases,Technology;Data,,Design tables and connect databases to web apps
+24,Full-Stack Project,Web Developer,Projects,Advanced,20,React;FastAPI;REST APIs;Databases,Coding;Design,21;22;23,Ship a complete web application
